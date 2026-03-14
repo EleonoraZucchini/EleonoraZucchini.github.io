@@ -8,6 +8,6 @@ title: Home
 
 ![Foto](/coniglio.jpg)
 
-#Eleonora Zucchini
-##Masarykova Univerzita, Brno.
+# Eleonora Zucchini
+## Masarykova Univerzita, Brno.
 
