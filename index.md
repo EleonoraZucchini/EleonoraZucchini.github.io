@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.md) • [Chi sono](Chi-sono.md)
-
+{% include page-header.html %}
 
 ![Foto](/coniglio.jpg)
 
