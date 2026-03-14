@@ -7,7 +7,7 @@ title: Home
 
 
 <div style="text-align:center">
-  ![foto](/media/home.jpg)
+  ![foto](/coniglio.jpg)
 </div>
 
 
