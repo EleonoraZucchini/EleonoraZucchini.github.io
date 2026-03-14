@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Chi sono
-description: Una breve descrizione della pagina (facoltativo)
 nav_order: 1
 ---
-
-# {{ page.title }}
 
 ## Presentazione
 Ricercatrice presso la *Masarykova Univerzita* di Brno, Repubblica Ceca.
