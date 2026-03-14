@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chi sono
-permalink: /Chi-sono/
+permalink: /chi_sono/
 ---
 
 {% include page-header.html %}
