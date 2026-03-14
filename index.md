@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chi sono
+title: Home
 ---
 
 [Home](index.md) • [Chi sono](Chi-sono.md)
