@@ -1,2 +1,7 @@
-#Heading
-##subheading
+
+---
+layout: default
+title: Home
+---
+
+# Benvenuta!
