@@ -9,7 +9,7 @@
       {{ site.title | default: "Site" | escape }}
     </title>
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.scss" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 
     {% if page.excerpt %}
       <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}">
